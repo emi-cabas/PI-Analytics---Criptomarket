@@ -77,6 +77,9 @@ Justamente por la importancia de la diversificación, se muestra la composición
 El objetivo es lograr un equilibrio entre la estabilidad y el crecimiento a largo plazo. La inclusión de stablecoins y la práctica del staking pueden seguir siendo componentes valiosos para mantener la estabilidad mientras se buscan oportunidades de ganancias pasivas.
 Si la empresa estuviera establecida en Argentina también se justifica la compra de Stablecoins ya que tienen capacidad para brindar una protección en el contexto económico de Argentina. La volatilidad del tipo de cambio y la inflación son factores significativos que impactan en las inversiones y ganancias en este entorno, y las stablecoins ofrecen una solución efectiva para mitigar estos riesgos.
 
+### Tokens.
+Incluí al final algunos tokens que me parecen que tienen potencial de inversión debido a su proyecto sólido y su enfoque en medio ambiente (en el caso de Ecoterra) e inteligencia artificial (en el caso de YPredict).
+
 ## LINKS:
 
 [EDA](EDA.ipynb)
